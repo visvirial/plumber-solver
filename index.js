@@ -6,7 +6,7 @@ var ps_map_html = function(map) {
 		for(var x=0; x<map[0].length; x++) {
 			var name = map[y][x].type + '' + map[y][x].orientation;
 			if(x==0 && y==0) name='S';
-			html += '<img src="./img/'+name+'.png" alt="'+name+'" style="width:10%;" />';
+			html += '<img src="./img/pipe-'+name+'.png" alt="'+name+'" style="width:10%;" />';
 		}
 		html += '<br />';
 	}
