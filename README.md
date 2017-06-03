@@ -9,7 +9,7 @@ This is a program to solve ["Plumber" Android game app](https://play.google.com/
 Get Started
 -----------
 
-Visit https://plumber-solver.github.io/ or just clone it.
+Visit http://plumber-solver.visvirial.com/ or just clone it.
 
 License
 -------
